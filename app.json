@@ -11,10 +11,10 @@
     "success_url": "/",
     "env": {
         "BOT_TOKEN": {
-            "description": "your Telegram Bot Token, from @BotFather"
+            "description": "6444745429:AAEfL8EfMbW1AT_9mOHSMyejLllYKvgN1u0"
         },
         "START_MESSAGE": {
-            "description": "A start message for your bot."
+            "description": "Hello world."
         }
     },
     "formation": {
